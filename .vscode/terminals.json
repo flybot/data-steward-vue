@@ -1,0 +1,10 @@
+{
+  "autorun": true,
+  "terminals": [
+    {
+      "name": "Frontend",
+      "execute": true,
+      "command": "npx vite --port=4004"
+    }
+  ]
+}

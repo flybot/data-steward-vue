@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search",
+    "profile": "Profile"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Sign Up",
+    "logout": "Logout",
+    "reset": "Reset password",
+    "forgot": "Forgot password?",
+    "field": {
+      "name": "Username",
+      "email": "E-Mail Address",
+      "password": "Password",
+      "remember": "Remember Me"
+    },
+    "message": {
+      "name_required": "Username is required!",
+      "name_min_length": "Must be at least 3 characters!",
+      "name_max_length": "Must be maximum 20 characters!",
+
+      "email_required": "Email is required!",
+      "email_invalid": "Email is invalid",
+      "email_max_length": "Must be maximum 50 characters!",
+      
+      "password_required": "Password is required!",
+      "password_min_length": "Must be at least 6 characters!",
+      "password_max_length": "Must be maximum 40 characters!",
+
+      "create_account": "Create Account",
+      "agree_terms": "By registering you agree with our terms and condition.",
+      "have_account": "Already have an account?",
+    
+      "send_link": "Send Link"
+    }
+    
+  }
+}

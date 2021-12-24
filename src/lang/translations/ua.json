@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Головна",
+    "about": "Про нас",
+    "contact": "Зв'язок",
+    "search": "Пошук",
+    "profile": "Профіль"
+  },
+  "auth": {
+    "login": "Вхід",
+    "register": "Реєстрація",
+    "logout": "Вихід",
+    "reset": "Скинути пароль",
+    "field": {
+      "name": "Ім'я користувача",
+      "email": "E-Mail адреса",
+      "password": "Пароль",
+      "remember": "Запам'ятати мене"
+    },
+    "message": {
+      "email_invalid": "Некоректний Email",
+      "forgot": "Забули пароль?",
+      "password_required": "Пароль не введено",
+      "create_account": "Створити аккаунт",
+      "name_required": "Введіть ім'я",
+      "agree_terms": "Реєструючись, Ви погоджуєтесь з нашими умовами.",
+      "have_account": "Маєте обліковий запис?"
+    }
+  }
+}
