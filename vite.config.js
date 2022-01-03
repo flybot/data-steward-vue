@@ -9,8 +9,8 @@ export default defineConfig({
   server: {
     open: false,
     https: {
-      key: fs.readFileSync('../cert/client-key.pem'),
-      cert: fs.readFileSync('../cert/client-cert.pem'),
+      key: fs.readFileSync('../data-steward-go/cert/client-key.pem'),
+      cert: fs.readFileSync('../data-steward-go/cert/client-cert.pem'),
     },
   },
   resolve: {
